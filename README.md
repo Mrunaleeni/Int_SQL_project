@@ -15,7 +15,7 @@ Analysis of customer behavior, retention, and lifetime value for an e-commerce c
 - Assigned customers to High, Mid, and Low-value segments
 - Calculated key metrics: total revenue
 
- Query:[1_customersegmentation](/Scripts/1_customersegmentation.sql)
+ Query:[1_customersegmentation](/1_customersegmentation.sql)
 
  ## Key Findings:
  - High-value segment (25% of customers) drives 66% of revenue ($135.4M)
