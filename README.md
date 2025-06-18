@@ -83,5 +83,5 @@ Query:[3_retention_analysis](/3_retention_analysis.sql)
 
 **Database:** PostgreSQL
 
-**Analysis Tools:** PostgreSQL
+**Analysis Tools:** PostgreSQL, Dbeaver, PGadmin
 
